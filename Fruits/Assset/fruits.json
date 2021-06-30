@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Pineapple",
+    "type": 0,
+    "image": "pineapple",
+    "caption": "Very high in Vitamin C, Low in sodium, Fat-free",
+    "description": "Pineapples are available fresh, frozen, canned, dried and as 100% juice for good nutrition and convenience.\n\nIf selecting fresh, choose pineapples with dark green leaves, heavy for size. Avoid soft or dark spots and dry-looking leaves. ",
+    "storage": "Cover and refrigerate ripe fruit for a day or two. Ripen at room temperature, out of direct sun until yields to gentle pressure.",
+    "preparation": "Cut in half crosswise and scoop out flesh or peel and thinly slice. Use in desserts and fruit salad. Fragrant flesh contains edible pips and tastes sweet-tart."
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "type": 0,
+    "image": "apple",
+    "caption": "Source of Vitamin C, High in fibre, Sodium-free",
+    "description": "Apples are available fresh, dried and as 100% juice for good nutrition and convenience.\n\nIf selecting fresh, choose firm, shiny, smooth-skinned apples with intact stems. Should smell fresh, not musty.",
+    "storage": "Store in perforated plastic bags in the refrigerator crisper. Cold, humid storage ensures that apples maintain their crispness, juicy texture and full flavour. Apples soften 10 times faster at room temperature.",
+    "preparation": "Rinse and eat. To prevent browning, coat cut surfaces with lemon juice."
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "type": 0,
+    "image": "banana",
+    "caption": "High in potassium, Source of Vitamin C, Source of fibre, Sodium-free, Fat-free",
+    "description": "Bananas are available fresh, frozen and dried for good nutrition and convenience.\n\nIf selecting fresh, choose bananas without cuts. They should be firm, without bruises. If you would like your bananas to stick around a little longer, pick greener bananas. Bananas ripen after harvest, so the greener they are-the longer they have to ripen on the counter.",
+    "storage": "Keep at room temperature until desire ripeness. For longer storage, once ripe, refrigerate. The peel will darken but remains fresh.",
+    "preparation": "Peel and eat. To prevent browning, coat surface with lemon juice. Use over ripe bananas in baking."
+  },
+  {
+    "id": 4,
+    "name": "Lemon",
+    "type": 0,
+    "image": "lemon",
+    "caption": "High in Vitamin C, SODIUM-free, fat-free",
+    "description": "Choose lemons with firm, thin, smooth skin, heavy for size.",
+    "storage": "Keep at cool room temperature for one week or refrigerate for up to one month.",
+    "preparation": "Rinse, squeeze for juice or slice for a garnish. To use the peel, rinse, pat dry and grate skin."
+  },
+  {
+    "id": 5,
+    "name": "Orange",
+    "type": 0,
+    "image": "orange",
+    "caption": "Very high in Vitamin C, Source of fibre, Source of potassium, Sodium-free, fat-free",
+    "description": "Choose oranges with firm, smooth skins, heavy for size.",
+    "storage": "Keep at room temperature for up to one week or refrigerate for up to one month. Room temperature fruit yields the most juice.",
+    "preparation": "Rinse, peel and eat. Squeeze thin skinned oranges for juice."
+  },
+  {
+    "id": 6,
+    "name": "Pomegranate",
+    "type": 1,
+    "image": "pomegranate",
+    "caption": "Source of Vitamin C, Source of Vitamin K, Sodium-free, source of fibre",
+    "description": "Pomegranates are available fresh and as 100% juice for good nutrition and convenience.\n\nIf selecting fresh, choose pomegranates that are plump, round and heavy for their size. ",
+    "storage": "Keep at room temperature for a few days or refrigerate for 1 to 2 weeks. Seeds and juice can be frozen.",
+    "preparation": "Slit skin and carefully pull away skin and pith (note: the juice stains). Only seeds are edible. Pomegranates are juicy with a sweet tart flavour. Sprinle over salads, desserts or crush seeds in blender and strain to make juice for drinks, sauces and jellies."
+  },
+  {
+    "id": 7,
+    "name": "Soursop",
+    "type": 1,
+    "image": "soursop",
+    "caption": "Source of magnesium, Source of iron, High in fibre, Source of potassium, fat-free",
+    "description": "Choose dark green fruits with numerous fleshy spines on the surface. Avoid soursops with bruises or blemishes on the surface.",
+    "storage": "A puree made by processing the white flesh with sugar freezes well and can be used in a variety of dessert recipes.",
+    "preparation": "The flesh can be eaten raw with a spoon. Process the seedless pulp to make juice or sherbet.\n\nCaution: remove all seeds as they are toxic."
+  },
+  {
+    "id": 8,
+    "name": "Strawberry",
+    "type": 1,
+    "image": "strawberry",
+    "caption": "Very high in Vitamin C, Sodium-free, fat-free",
+    "description": "Strawberries are available fresh, frozen and dried for good nutrition and convenience.\n\nIf selecting fresh, choose shiny, firm strawberries with a bright red color. Caps should be fresh, green and intact. Avoid shriveled, mushy or leaky berries.  ",
+    "storage": "Arrange unwashed on paper towel in shallow pan. Loosely cover, refrigerate unwashed for up to two days or freeze for up to one year.",
+    "preparation": "Gently rinse, pat dry, then remove caps."
+  },
+  {
+    "id": 9,
+    "name": "Watermelon",
+    "type": 1,
+    "image": "watermelon",
+    "caption": "Source of Vitamin C, Sodium-free, fat-free",
+    "description": "Try the Look, Lift, Turn!\n\nLook the watermelon over. You are looking for a firm watermelon that is free from bruises, cuts or dents. Scratching is ok.\n\nLift it up. The watermelon should be very heavy for its size.\n\nTurn it over. The underside of the watermelon should have a creamy yellow spot from where it sat on the ground and ripened in the sun.\n\nIf you want to try the thump, you’re listening for a dull, muffled, hollow sound if it’s ripe. If it’s unripe, the sound may be more of a metallic, clear ring. Another way to describe it is a “ping” for unripe or a “pong” when ready.",
+    "storage": "Whole melons will keep for 7 to 10 days at room temperature. Store them too long, and they’ll lose flavour and texture. After cutting, store wrapped watermelon in refrigerator for 3-4 days.",
+    "preparation": "Rinse, cut melon into wedges or scoop out flesh."
+  },
+  {
+    "id": 10,
+    "name": "Passion Fruit",
+    "type": 1,
+    "image": "passion",
+    "caption": "High in fibre, Source of Vitamin C, Source of Vitamin K, Fat-free",
+    "description": "Ripe passion fruit has wrinkled skin; purple passion fruit may have brown areas.",
+    "storage": "Refrigerate ripe fruit covered for a few days. Ripen at room temperature, out of direct sun until wrinkled.",
+    "preparation": "Halve and scoop out juicy, yellow pulp and edible seeds. Eat fresh and use in desserts, juices and jams. A little lime juice heightens its flavour. Sweet tart flavour and very fragrant smell."
+  },
+  {
+    "id": 11,
+    "name": "Mango",
+    "type": 0,
+    "image": "mango",
+    "caption": "High in Vitamin C, Sodium-free, fat-free",
+    "description": "Mangoes are available fresh, frozen, canned and dried for good nutrition and convenience.\n\nIf selecting fresh, always feel the mango to judge its ripeness level. Select mangos at room temperature. It might come natural to select chilled produce items, but look for mangos that are at room temperature. ",
+    "storage": "Ripen fruit uncovered at room temperature. Cover, refrigerate ripe fruit for up to three days.",
+    "preparation": "Rinse. Score skin in four sections and peel like a banana or cut in half and remove pit. Fruit clings to pit so slice as much as possible from it."
+  },
+  {
+    "id": 12,
+    "name": "Guava",
+    "type": 0,
+    "image": "guava",
+    "caption": "Very high in Vitamin C, High in folacin, Source of potassium, Sodium-free",
+    "description": "Select guavas that give to gentle pressure and are unblemished.",
+    "storage": "Cover and refrigerate ripe fruit for a day or two. Ripen at room temperature, out of direct sun until yields to gentle pressure.",
+    "preparation": "Cut in half crosswise and scoop out flesh or peel and thinly slice. Use in desserts and fruit salad. Fragrant flesh contains edible pips and tastes sweet-tart."
+  }
+]

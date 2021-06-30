@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Github",
+    "image": "github",
+    "link": "https://github.com/FelixLiman"
+  },
+  {
+    "id": 2,
+    "name": "LinkedIn",
+    "image": "linkedin",
+    "link": "https://www.linkedin.com/in/felixliman/"
+  },
+  {
+    "id": 3,
+    "name": "Dicoding",
+    "image": "dicoding",
+    "link": "https://www.dicoding.com/users/felix_lim_a4ox"
+  },
+  {
+    "id": 4,
+    "name": "Instagram",
+    "image": "instagram",
+    "link": "https://www.instagram.com/felixlimann/"
+  }
+]
