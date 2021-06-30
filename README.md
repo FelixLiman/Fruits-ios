@@ -12,16 +12,16 @@ These is the screenshots of the app.
 
 ### Home Screen
 
-![Fruits: iOS Home Screen](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/home.png){:height="50%" width="50%"}
+![Fruits: iOS Home Screen](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/home.png width="150" height="280")
 
 ### Details
 
-![Fruits: iOS Pineapple Detail](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/pineapple-detail.png){:height="50%" width="50%"}
-![Fruits: iOS Watermelon Detail](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/watermelon-detail.png){:height="50%" width="50%"}
+![Fruits: iOS Pineapple Detail](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/pineapple-detail.png width="150" height="280")
+![Fruits: iOS Watermelon Detail](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/watermelon-detail.png width="150" height="280")
 
 ### Profiles
 
-![Fruits: iOS Profile](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/profile.png){:height="50%" width="50%"}
+![Fruits: iOS Profile](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/profile.png width="150" height="280")
 
 ## References
 
