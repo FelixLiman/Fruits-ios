@@ -34,10 +34,10 @@
 		09271999268B21A800C9123C /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09271998268B21A800C9123C /* ProfileViewController.swift */; };
 		0927199B268B21AD00C9123C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0927199A268B21AD00C9123C /* ProfileView.swift */; };
 		099A3C55268C4A3B00DC811F /* bouncingFruits.json in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C54268C4A3B00DC811F /* bouncingFruits.json */; };
-		099A3C64268C704B00DC811F /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C60268C704B00DC811F /* home.png */; };
-		099A3C65268C704B00DC811F /* pineapple-detail.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C61268C704B00DC811F /* pineapple-detail.png */; };
-		099A3C66268C704B00DC811F /* watermelon-detail.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C62268C704B00DC811F /* watermelon-detail.png */; };
-		099A3C67268C704B00DC811F /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C63268C704B00DC811F /* profile.png */; };
+		099A3C69268C710A00DC811F /* pineapple-detail.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C68268C710A00DC811F /* pineapple-detail.png */; };
+		099A3C6E268C711200DC811F /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C6A268C711100DC811F /* profile.png */; };
+		099A3C6F268C711200DC811F /* watermelon-detail.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C6B268C711100DC811F /* watermelon-detail.png */; };
+		099A3C70268C711200DC811F /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 099A3C6C268C711100DC811F /* home.png */; };
 		09ACB9D12689CE2100D13E48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09ACB9D02689CE2100D13E48 /* AppDelegate.swift */; };
 		09ACB9DA2689CE2700D13E48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09ACB9D92689CE2700D13E48 /* Assets.xcassets */; };
 		09ACB9DD2689CE2700D13E48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09ACB9DB2689CE2700D13E48 /* LaunchScreen.storyboard */; };
@@ -68,10 +68,10 @@
 		09271998268B21A800C9123C /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		0927199A268B21AD00C9123C /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		099A3C54268C4A3B00DC811F /* bouncingFruits.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bouncingFruits.json; sourceTree = "<group>"; };
-		099A3C60268C704B00DC811F /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
-		099A3C61268C704B00DC811F /* pineapple-detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pineapple-detail.png"; sourceTree = "<group>"; };
-		099A3C62268C704B00DC811F /* watermelon-detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "watermelon-detail.png"; sourceTree = "<group>"; };
-		099A3C63268C704B00DC811F /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile.png; sourceTree = "<group>"; };
+		099A3C68268C710A00DC811F /* pineapple-detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pineapple-detail.png"; sourceTree = "<group>"; };
+		099A3C6A268C711100DC811F /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile.png; sourceTree = "<group>"; };
+		099A3C6B268C711100DC811F /* watermelon-detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "watermelon-detail.png"; sourceTree = "<group>"; };
+		099A3C6C268C711100DC811F /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		09ACB9CD2689CE2100D13E48 /* Fruits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fruits.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09ACB9D02689CE2100D13E48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		09ACB9D92689CE2700D13E48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -192,10 +192,10 @@
 		099A3C5F268C704B00DC811F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				099A3C60268C704B00DC811F /* home.png */,
-				099A3C61268C704B00DC811F /* pineapple-detail.png */,
-				099A3C62268C704B00DC811F /* watermelon-detail.png */,
-				099A3C63268C704B00DC811F /* profile.png */,
+				099A3C68268C710A00DC811F /* pineapple-detail.png */,
+				099A3C6B268C711100DC811F /* watermelon-detail.png */,
+				099A3C6C268C711100DC811F /* home.png */,
+				099A3C6A268C711100DC811F /* profile.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -310,18 +310,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				099A3C6E268C711200DC811F /* profile.png in Resources */,
 				09271984268B061400C9123C /* fruits.json in Resources */,
-				099A3C65268C704B00DC811F /* pineapple-detail.png in Resources */,
+				099A3C6F268C711200DC811F /* watermelon-detail.png in Resources */,
 				09271976268AF88300C9123C /* Brandon-Black.otf in Resources */,
-				099A3C64268C704B00DC811F /* home.png in Resources */,
 				09ACB9DD2689CE2700D13E48 /* LaunchScreen.storyboard in Resources */,
-				099A3C66268C704B00DC811F /* watermelon-detail.png in Resources */,
 				09124325268C0B0600936CDD /* socials.json in Resources */,
-				099A3C67268C704B00DC811F /* profile.png in Resources */,
 				09ACB9DA2689CE2700D13E48 /* Assets.xcassets in Resources */,
 				099A3C55268C4A3B00DC811F /* bouncingFruits.json in Resources */,
 				09271974268AF87B00C9123C /* Brandon-BoldItalic.otf in Resources */,
 				09271970268AF71800C9123C /* Brandon-Bold.otf in Resources */,
+				099A3C70268C711200DC811F /* home.png in Resources */,
+				099A3C69268C710A00DC811F /* pineapple-detail.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
