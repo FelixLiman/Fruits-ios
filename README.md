@@ -12,7 +12,7 @@ These is the screenshots of the app.
 
 ### Home Screen
 
-![Fruits: iOS Home Screen](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/home.png)
+![Fruits: iOS Home Screen](https://raw.githubusercontent.com/FelixLiman/Fruits-ios/master/Fruits/Resources/home.png | width=100)
 
 ### Details
 
